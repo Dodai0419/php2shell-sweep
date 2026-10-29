@@ -1,0 +1,8 @@
+{
+  "name": "php2shell-sweep",
+  "description": "Find out which of your websites still need the PHP2Shell patch, all at once, in one picture.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Dodai0419"
+  }
+}

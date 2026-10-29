@@ -1,0 +1,13 @@
+{
+  "name": "php2shell-sweep",
+  "owner": {
+    "name": "Dodai0419"
+  },
+  "plugins": [
+    {
+      "name": "php2shell-sweep",
+      "source": "./",
+      "description": "Find out which of your websites still need the PHP2Shell patch, all at once, in one picture."
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+# One site per line. Only list sites you are responsible for.
+https://shop.example.com
+https://blog.example.com
+https://static.example.com
